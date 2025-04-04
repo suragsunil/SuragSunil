@@ -1,54 +1,50 @@
-# 👋 Hi there, I'm **Surag**!  
+# 👋 Hi, I'm **Surag**  
 
-Welcome to my GitHub profile! I'm an aspiring software developer, postgraduate student, and creative professional dedicated to building innovative, user-friendly applications and delivering visually appealing multimedia content.  
+Welcome to my GitHub profile! I'm a **software developer** and **postgraduate student** passionate about building efficient, scalable applications and continuously enhancing my technical expertise.  
 
 ---
 
 ## 🚀 About Me  
-- 🎓 I’m a **Postgraduate Student** pursuing a **Master of Computer Applications (MCA)** at the **University of Calicut**.  
-- 🔭 Actively involved in exciting projects and consistently refining my technical expertise to stay ahead in the ever-evolving tech world.  
-- 🌱 Enhancing my knowledge in **Python, Django, SQL, Machine Learning (ML)**, **Artificial Intelligence (AI)**, and multimedia editing tools.  
-- 💼 Currently working on my **MCA Semester 4 Main Project**, focusing on advanced software development concepts to deliver impactful solutions.  
-- 💡 Passionate about **software development**, **problem-solving**, and **visual storytelling** through photo and video editing.  
-- 🌟 Dedicated to blending creativity and logic to design applications and multimedia content that resonate with users and add value to their lives.  
+- 🎓 Pursuing a **Master of Computer Applications (MCA)** at the **University of Calicut**.  
+- 🔭 Actively learning and working with **Python, Django, SQL, Data Science, and Machine Learning**.  
+- 💡 Passionate about **software development, problem-solving**, and optimizing solutions for real-world applications.  
+- 💼 Currently developing my **MCA Semester 4 Main Project**, implementing advanced concepts for impactful solutions.  
+- 🌱 Continuously improving my **technical knowledge and skills daily**, focusing on **AI/ML** alongside software development.  
+- ⚡ Python and Django are my **favorite frameworks** for web development.  
 
 ---
 
-## 🎨 Creative Expertise  
-- 📹 Skilled in **video editing** using tools like **Adobe Premiere Pro**, **Final Cut Pro**, and **DaVinci Resolve**.  
-- 🖼️ Experienced in **photo editing** and graphic design using **Adobe Photoshop**, **Lightroom**, and **Canva**.  
-- 🌟 Proficient in creating visually appealing content for social media, presentations, and promotional campaigns.  
+## 🛠️ Technical Skills  
+- **Languages:** Python, SQL  
+- **Frameworks & Tools:** Django (Favorite), Pandas, NumPy, Matplotlib, Scikit-learn  
+- **Database Management:** SQLite, PostgreSQL  
+- **Interests:** Data Science, AI, and Web Development  
+
+---
+
+## 🎥 Editing Skills  
+- Basic **photo and video editing** using **Adobe Photoshop** and **DaVinci Resolve**  
 
 ---
 
 ## 👯 Collaboration  
-- Looking to collaborate on projects in **web development**, **AI/ML**, **open-source contributions**, or **multimedia editing**.  
-- Open to brainstorming innovative ideas, sharing knowledge, and delivering impactful results together.  
+- Open to collaborating on **Python, Django, Data Science, and Machine Learning** projects.  
+- Interested in contributing to **open-source** and innovative software solutions.  
 
 ---
 
-## 💬 Let's Talk  
-- Feel free to reach out for discussions on **Python, Django, ML, AI**, or creative multimedia projects.  
-- I thrive on solving challenging problems and bringing creative ideas to life, whether in code or content.  
-
----
-
-## 📫 Reach Me  
-- **Email:** suraagms@gmail.com  
-- **LinkedIn:** [Surag Sunil](https://www.linkedin.com/in/suragsunil)  
-- **GitHub:** [SuragSunil](https://github.com/SuragSunil)  
-- **Instagram:** [Surag Sunil](https://instagram.com/surag_sunil?igshid=1eujfdtoysibl)  
-- **Facebook:** [Surag Sunil](https://facebook.com/suragsunilmandathra)  
-- **Twitter:** [Surag Sunil](https://twitter.com/surag_sunil)  
-- **YouTube:** [Subscribe](https://www.youtube.com/channel/UCNFZjRAy-IrvWfbp287x1rA)  
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SuragSunil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/suragsunil)  
+[![GitHub](https://img.shields.io/badge/GitHub-SuragSunil-black?style=flat&logo=github)](https://github.com/SuragSunil)  
+[![Twitter](https://img.shields.io/badge/Twitter-SuragSunil-blue?style=flat&logo=twitter)](https://twitter.com/surag_sunil)  
+📧 **Email:** suraagms@gmail.com  
 
 ---
 
 ## ⚡ Fun Facts  
-- Beyond coding, I’m a **tech enthusiast** who loves exploring the latest advancements in **AI and machine learning**.  
-- I enjoy tackling logical puzzles, challenges like **Sudoku**, and debugging tricky code.  
-- My creative side thrives on designing intuitive apps and delivering visually stunning multimedia content.  
+- I enjoy solving logic puzzles, debugging complex code, and staying updated with AI/ML advancements.  
+- Passionate about **technology, automation, and continuous learning**.  
 
 ---
 
-Thank you for visiting my profile! Let’s connect, collaborate, and create something amazing together. 🚀  
+Let's connect and collaborate! 🚀  
