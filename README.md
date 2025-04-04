@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Surag Sunil**!  
+# 👋 Hi there, I'm **Surag**!  
 
 Welcome to my GitHub profile! I'm an aspiring software developer, postgraduate student, and creative professional dedicated to building innovative, user-friendly applications and delivering visually appealing multimedia content.  
 
