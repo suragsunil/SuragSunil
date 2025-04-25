@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a **software developer** and **postgraduate st
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SuragSunil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/suragsunil)  
-[![GitHub](https://img.shields.io/badge/GitHub-SuragSunil-black?style=flat&logo=github)](https://github.com/SuragSunil)  
+[![GitHub](https://img.shields.io/badge/GitHub-SuragSunil-black?style=flat&logo=github)](https://github.com/suragsunil)  
 [![Twitter](https://img.shields.io/badge/Twitter-SuragSunil-blue?style=flat&logo=twitter)](https://twitter.com/surag_sunil)  
 📧 **Email:** suraagms@gmail.com  
 
